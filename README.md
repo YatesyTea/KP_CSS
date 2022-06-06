@@ -6,5 +6,5 @@ The purpose of this is to properly understand css.
 
 There will be a notes file containing the notes from each day under notes.md.
 
-There will then be a folder with day[x].css for each individual task.
+There will then be a folder with for each individual challenge.
 
