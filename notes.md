@@ -24,6 +24,9 @@
 >
 > * Instead of setting a width (which causes side scrolling), you can apply a max-width property (in px, or rem).
 >
+> * Containers very common class used on the web.
+>   * Should be limited to sizes unless styles are used consistently throughout.
+>   * 
 
 # Day 4
 > CSS Units
@@ -36,3 +39,6 @@
 >
 
 # Day 5
+> Challenge 3
+>
+> * 
